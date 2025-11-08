@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/developer/Projects/Main/Site/src/SiteWASM/bin/Release/net9.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/developer/Projects/Main/Site/src/SiteWASM/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/developer/Projects/Main/Site/src/SiteWASM/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/developer/Projects/Main/Site/src/SiteWASM/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.SiteWASM.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.SiteWASM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.build.SiteWASM.props",
+      "PackagePath": "build\\SiteWASM.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildMultiTargeting.SiteWASM.props",
+      "PackagePath": "buildMultiTargeting\\SiteWASM.props"
+    },
+    {
+      "Id": "obj/Release/net9.0/staticwebassets/msbuild.buildTransitive.SiteWASM.props",
+      "PackagePath": "buildTransitive\\SiteWASM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
