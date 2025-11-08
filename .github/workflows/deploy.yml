@@ -28,12 +28,15 @@ jobs:
         
     - name: Restore dependencies
       run: dotnet restore
+      working-directory: src
       
     - name: Build
       run: dotnet build --configuration Release --no-restore
+      working-directory: src
       
     - name: Publish
       run: dotnet publish --configuration Release --output publish --nologo
+      working-directory: src
       
     - name: Setup Pages
       uses: actions/configure-pages@v4
